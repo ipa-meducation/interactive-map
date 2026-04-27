@@ -958,21 +958,14 @@ document.getElementById('download-map').addEventListener('click', async function
 });
 
 // Load the schools.json file
-Promise.all([
-    fetch('schools.json').then(res => res.json()),
-    fetch('rounds-config.json').then(res => res.json())
-])
-.then(([schoolsData, roundsConfig]) => {
-    console.log("Rounds config loaded:", roundsConfig);
-
-    // OPTIONAL: store globally if needed later
-    window.roundsConfig = roundsConfig;
-
-    initializeMap(schoolsData);
-})
-.catch(error => {
-    console.error("Error loading data:", error);
-    alert("Error loading data. Check JSON files.");
-});
+fetch('schools.json')
+    .then(response => response.json())
+    .then(data => {
+        initializeMap(data);
+    })
+    .catch(error => {
+        console.error("Error loading schools data:", error);
+        alert("Error loading school data. Please check your JSON file.");
+    });
 
     </script>

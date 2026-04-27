@@ -13,14 +13,14 @@
       "description": "Initial pilot implementation with DepEd"
     },
     {
-      "id": "scaling_round_1",
-      "name": "Scaling Round 1",
+      "id": "scaleup1",
+      "name": "Scale-Up Round 1",
       "color": "#a1d99b",
       "description": "First scaling round"
     },
     {
-      "id": "scaling_round_2",
-      "name": "Scaling Round 2",
+      "id": "scaleup2",
+      "name": "Scale-Up Round 2",
       "color": "#74c476",
       "description": "Second scaling round"
     },

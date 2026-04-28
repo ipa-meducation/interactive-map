@@ -2,25 +2,25 @@
   "implementationRounds": [
     {
       "id": "pilot-ipa",
-      "name": "Pilot-IPA Arm",
+      "name": "Pilot - IPA Arm",
       "color": "#84d0d4",
       "description": "Pilot IPA arm"
     },
     {
       "id": "pilot-deped",
-      "name": "Pilot-DepEd Arm",
+      "name": "Pilot - DepEd Arm",
       "color": "#49ac57",
       "description": "Pilot DepEd arm"
     },
     {
-      "id": "scaling-round-1",
-      "name": "SCALING - ROUND 1",
+      "id": "scaleup1",
+      "name": "Scale-Up Round 1",
       "color": "#f26529",
       "description": "Scaling Round 1"
     },
     {
-      "id": "scaling-round-2",
-      "name": "SCALING - ROUND 2",
+      "id": "scaleup2",
+      "name": "Scale-Up Round 2",
       "color": "#2b4085",
       "description": "Scaling Round 2"
     },

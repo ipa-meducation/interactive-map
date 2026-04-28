@@ -1,64 +1,38 @@
 {
   "implementationRounds": [
-    {
-      "id": "pilot_ipa",
+    {https://github.com/maxinetong/meduc/tree/main
+      "id": "pilot-ipa",
       "name": "Pilot - IPA Arm",
       "color": "#84d0d4",
-      "description": "Initial pilot implementation with IPA"
+      "description": "Initial pilot implementation with IPA partnership"
     },
     {
-      "id": "pilot_deped",
-      "name": "Pilot - DepEd Arm",
+      "id": "pilot-deped",
+      "name": "Pilot - DepEd Arm", 
       "color": "#49ac57",
-      "description": "Initial pilot implementation with DepEd"
+      "description": "Initial pilot implementation with DepEd partnership"
     },
     {
       "id": "scaleup1",
       "name": "Scale-Up Round 1",
-      "color": "#a1d99b",
-      "description": "First scaling round"
+      "color": "#f26529", 
+      "description": "First scale-up implementation phase"
     },
     {
       "id": "scaleup2",
       "name": "Scale-Up Round 2",
-      "color": "#74c476",
-      "description": "Second scaling round"
-    },
-    {
-      "id": "scaling_summer_2025",
-      "name": "Scaling - Summer 2025",
-      "color": "#fdd0a2",
-      "description": "Summer 2025 implementation"
-    },
-    {
-      "id": "scaling_sy_2025_2026_r1",
-      "name": "Scaling SY 2025-2026 R1",
-      "color": "#fc8d59",
-      "description": "School Year 2025-2026 Round 1"
-    },
-    {
-      "id": "scaling_sy_2025_2026_r2",
-      "name": "Scaling SY 2025-2026 R2",
-      "color": "#e34a33",
-      "description": "School Year 2025-2026 Round 2"
-    },
-    {
-      "id": "als_pilot",
-      "name": "ALS Pilot",
-      "color": "#9ecae1",
-      "description": "Alternative Learning System pilot"
-    },
-    {
-      "id": "tarl_pilot",
-      "name": "TARL Pilot",
-      "color": "#6baed6",
-      "description": "Teaching at the Right Level pilot"
-    },
-    {
-      "id": "rct_pilot",
-      "name": "RCT Pilot",
-      "color": "#3182bd",
-      "description": "Randomized Controlled Trial pilot"
+      "color": "#2b4085",
+      "description": "Second scale-up implementation phase"
     }
-  ]
+  ],
+  "multipleRoundsConfig": {
+    "color": "#155240",
+    "name": "Multiple Rounds",
+    "description": "Schools that participated in multiple implementation rounds"
+  },
+  "mapSettings": {
+    "defaultCenter": [12.8797, 121.7740],
+    "defaultZoom": 6,
+    "clusterZoom": 15
+  }
 }

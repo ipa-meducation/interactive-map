@@ -5,8 +5,8 @@
     "lat": 9.266148034546173,
     "lng": 125.55939506079605,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -16,8 +16,8 @@
     "lat": 9.26642846741029,
     "lng": 125.55925192234524,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -27,7 +27,7 @@
     "lat": 9.267331421373015,
     "lng": 125.55919677446336,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": false
   },
@@ -37,8 +37,9 @@
     "lat": 9.06267852986704,
     "lng": 125.60520801863943,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -48,8 +49,9 @@
     "lat": 9.305465861261245,
     "lng": 125.55168493618675,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -59,8 +61,8 @@
     "lat": 9.051897109821365,
     "lng": 125.5863019456238,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -70,7 +72,7 @@
     "lat": 9.161239608792444,
     "lng": 125.57337582619628,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -80,7 +82,7 @@
     "lat": 9.15753925650595,
     "lng": 125.56121186096918,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -90,7 +92,7 @@
     "lat": 9.232090554496153,
     "lng": 125.58745501897309,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -100,7 +102,7 @@
     "lat": 9.066633497213482,
     "lng": 125.58165282419321,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -109,7 +111,9 @@
     "sdo": "Agusan Del Norte",
     "lat": 9.057729569129535,
     "lng": 125.56918687000248,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -117,7 +121,9 @@
     "sdo": "Agusan Del Norte",
     "lat": 6.7060413,
     "lng": 121.9702068,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -125,7 +131,9 @@
     "sdo": "Agusan Del Norte",
     "lat": 9.0727972,
     "lng": 125.5335711,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -133,15 +141,20 @@
     "sdo": "Agusan Del Norte",
     "lat": 9.5026288,
     "lng": 125.4743945,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tagbongabong Elementary School",
     "sdo": "Agusan Del Norte",
     "lat": 9.0797515,
     "lng": 125.6150258,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 4"
+    ],
     "multipleRounds": false
   },
   {
@@ -149,7 +162,9 @@
     "sdo": "Butuan City",
     "lat": 8.9735585,
     "lng": 125.5258366,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -157,7 +172,9 @@
     "sdo": "Butuan City",
     "lat": 8.9626058,
     "lng": 125.5063661,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -165,7 +182,9 @@
     "sdo": "Butuan City",
     "lat": 8.9656652,
     "lng": 125.5355583,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -173,23 +192,31 @@
     "sdo": "Butuan City",
     "lat": 8.953646080071767,
     "lng": 125.4997159,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Buhangin Elementary School",
     "sdo": "Butuan City",
     "lat": 8.946876139761947,
     "lng": 125.5496059460327,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "F.R. Sibayan Central Elem. School",
     "sdo": "Butuan City",
     "lat": 8.954924531216964,
     "lng": 125.56528251627448,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -197,7 +224,9 @@
     "sdo": "Butuan City",
     "lat": 8.954227677820844,
     "lng": 125.53174495866448,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -205,7 +234,9 @@
     "sdo": "Butuan City",
     "lat": 8.962865603260827,
     "lng": 125.53803478425088,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -213,16 +244,22 @@
     "sdo": "Butuan City",
     "lat": 8.94437759035883,
     "lng": 125.5350176776939,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Ong Yiu Central Elementary School",
     "sdo": "Butuan City",
     "lat": 8.956167343844449,
     "lng": 125.53717445489768,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bagumbayan Elementary School",
@@ -230,8 +267,8 @@
     "lat": 14.658256475989694,
     "lng": 120.9484572822135,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -241,8 +278,8 @@
     "lat": 14.651282345370184,
     "lng": 120.95301089902065,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -252,7 +289,7 @@
     "lat": 14.650858025700485,
     "lng": 120.95660439902058,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -262,7 +299,7 @@
     "lat": 14.645072743921723,
     "lng": 120.95751048243913,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -272,7 +309,7 @@
     "lat": 14.662763102816355,
     "lng": 120.94227812291575,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -282,7 +319,7 @@
     "lat": 14.662771430451672,
     "lng": 120.9454035254606,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -292,7 +329,7 @@
     "lat": 14.644365572901114,
     "lng": 120.95329829765421,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -302,7 +339,7 @@
     "lat": 14.648080857971935,
     "lng": 120.95060419104573,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -312,7 +349,7 @@
     "lat": 14.637079530993216,
     "lng": 120.96523268313119,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -322,7 +359,7 @@
     "lat": 14.669506521824404,
     "lng": 120.9381285492944,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -332,7 +369,7 @@
     "lat": 14.673828517048436,
     "lng": 120.93496526355625,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -342,7 +379,7 @@
     "lat": 14.678591938068642,
     "lng": 120.93458482546107,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -352,7 +389,7 @@
     "lat": 14.679918127106971,
     "lng": 120.9348392384448,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -362,8 +399,8 @@
     "lat": 14.631972086333489,
     "lng": 120.9794691685103,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -373,8 +410,8 @@
     "lat": 14.634349555127248,
     "lng": 120.98061181436279,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -384,8 +421,8 @@
     "lat": 14.590317731562068,
     "lng": 121.01272844189413,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -395,8 +432,8 @@
     "lat": 14.60598462818537,
     "lng": 121.00232762415602,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -406,8 +443,8 @@
     "lat": 14.608457541842808,
     "lng": 120.96866255854015,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -417,8 +454,8 @@
     "lat": 14.614715192184152,
     "lng": 120.96945051712035,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -428,8 +465,8 @@
     "lat": 14.588348800615575,
     "lng": 121.02302693579901,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -439,8 +476,8 @@
     "lat": 14.60105715921853,
     "lng": 121.00409497487037,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -450,8 +487,8 @@
     "lat": 14.630769138412912,
     "lng": 120.96786466306999,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -461,7 +498,7 @@
     "lat": 14.592880790298766,
     "lng": 120.95694533665855,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -471,7 +508,7 @@
     "lat": 14.601275899946355,
     "lng": 121.06202899965776,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": false
   },
@@ -482,7 +519,7 @@
     "lng": 121.17733516275209,
     "implementationTypes": [
       "Pilot - IPA Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -492,8 +529,8 @@
     "lat": 13.357129264115732,
     "lng": 121.16983099729605,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -503,8 +540,8 @@
     "lat": 13.306462772637028,
     "lng": 121.19175387809194,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -514,8 +551,8 @@
     "lat": 14.908703691650787,
     "lng": 120.74248142231536,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -535,8 +572,8 @@
     "lat": 13.33406904595462,
     "lng": 121.22611311676258,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -547,7 +584,7 @@
     "lng": 121.17764016714708,
     "implementationTypes": [
       "Pilot - IPA Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -557,8 +594,8 @@
     "lat": 13.358117444145359,
     "lng": 121.1356777417993,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -569,7 +606,7 @@
     "lng": 121.11747533623289,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -579,8 +616,8 @@
     "lat": 13.388132292455426,
     "lng": 121.18373016143356,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -590,8 +627,8 @@
     "lat": 13.397888674900601,
     "lng": 121.17480454245784,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -602,7 +639,7 @@
     "lng": 121.19975947380952,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -612,8 +649,8 @@
     "lat": 13.32743574787435,
     "lng": 121.19738014486876,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -633,8 +670,8 @@
     "lat": 13.40190723456325,
     "lng": 121.21745922018226,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -645,7 +682,7 @@
     "lng": 121.19562306798154,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -656,7 +693,7 @@
     "lng": 121.15932134643333,
     "implementationTypes": [
       "Pilot - IPA Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -666,8 +703,8 @@
     "lat": 13.406290471963418,
     "lng": 121.18544096876398,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -678,7 +715,7 @@
     "lng": 121.15539840693023,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -688,8 +725,9 @@
     "lat": 13.439566790077166,
     "lng": 121.88790403950422,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
     "multipleRounds": true
   },
@@ -699,8 +737,10 @@
     "lat": 13.48003468506711,
     "lng": 122.03301770463173,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -710,8 +750,10 @@
     "lat": 13.499268640934114,
     "lng": 121.9997843644302,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -721,8 +763,9 @@
     "lat": 13.526876430316719,
     "lng": 122.11907757792527,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
     "multipleRounds": true
   },
@@ -732,8 +775,9 @@
     "lat": 13.327155626940783,
     "lng": 122.08976989326155,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
     "multipleRounds": true
   },
@@ -743,8 +787,9 @@
     "lat": 13.455006277982822,
     "lng": 121.84227511616044,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -754,9 +799,10 @@
     "lat": 13.248272265256674,
     "lng": 121.98238530178125,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1",
+      "SCALING - SUMMER 2025"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Caigangan Elementary School",
@@ -764,7 +810,7 @@
     "lat": 13.25867114424322,
     "lng": 121.93169542209516,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -774,7 +820,7 @@
     "lat": 13.436610003409156,
     "lng": 122.07541562208975,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -784,9 +830,10 @@
     "lat": 13.255404974353597,
     "lng": 121.94312467513733,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - SUMMER 2025"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Balanacan Elementary School",
@@ -794,9 +841,10 @@
     "lat": 13.52902307357155,
     "lng": 121.86850025424802,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Don Luis Hidalgo Memorial School",
@@ -804,9 +852,10 @@
     "lat": 13.446509527936332,
     "lng": 121.84024621076705,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Gasan Central School",
@@ -814,9 +863,11 @@
     "lat": 13.324273547008191,
     "lng": 121.84790099326146,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Mogpog Central School",
@@ -824,9 +875,12 @@
     "lat": 13.473238921876236,
     "lng": 121.8606137932647,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Santa Cruz East Central School",
@@ -844,16 +898,21 @@
     "lat": 13.320914849531167,
     "lng": 122.08884256627256,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Balimbing Elementary School",
     "sdo": "Marinduque",
     "lat": 13.439120515457342,
     "lng": 121.87431841066682,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -861,8 +920,11 @@
     "sdo": "Marinduque",
     "lat": 13.343794683346218,
     "lng": 121.83578976038098,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Poctoy Elementary School",
@@ -870,8 +932,11 @@
     "lat": 13.332922664636033,
     "lng": 122.09833099510804,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -880,7 +945,9 @@
     "sdo": "Marinduque",
     "lat": 13.239813735514774,
     "lng": 121.9757380350851,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -888,7 +955,9 @@
     "sdo": "Marinduque",
     "lat": 13.216241276318259,
     "lng": 121.97715880815706,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -896,15 +965,21 @@
     "sdo": "Marinduque",
     "lat": 13.436198844348093,
     "lng": 121.96980775522157,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Libas Elementary School",
     "sdo": "Marinduque",
     "lat": 13.242598625303318,
     "lng": 121.9559839247592,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -912,7 +987,9 @@
     "sdo": "Marinduque",
     "lat": 13.484633613256692,
     "lng": 122.01824284319932,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -920,23 +997,31 @@
     "sdo": "Marinduque",
     "lat": 13.406376941019607,
     "lng": 122.00036762608852,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Malibago Elementary School",
     "sdo": "Marinduque",
     "lat": 13.27707939508787,
     "lng": 122.01309996000278,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Maligaya Elementary School",
     "sdo": "Marinduque",
     "lat": 13.449239532436327,
     "lng": 121.83726934305221,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -944,31 +1029,44 @@
     "sdo": "Marinduque",
     "lat": 13.360371939734662,
     "lng": 121.82817052023515,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Matalaba Elementary School",
     "sdo": "Marinduque",
     "lat": 13.457682566447525,
     "lng": 122.05803592629844,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mongpong Elementary School",
     "sdo": "Marinduque",
     "lat": 13.51841856368453,
     "lng": 122.17055000724278,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Pag-asa Elementary School",
     "sdo": "Marinduque",
     "lat": 13.25865769071294,
     "lng": 121.93304927332099,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -976,15 +1074,21 @@
     "sdo": "Marinduque",
     "lat": 13.502228545385607,
     "lng": 122.08910660335827,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Antonio Elementary School",
     "sdo": "Marinduque",
     "lat": 13.447866612581574,
     "lng": 121.98231302147867,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -992,7 +1096,9 @@
     "sdo": "Marinduque",
     "lat": 13.321417334409999,
     "lng": 121.89921917382918,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -1000,7 +1106,9 @@
     "sdo": "Marinduque",
     "lat": 13.366532282035493,
     "lng": 121.85244622959536,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -1008,7 +1116,9 @@
     "sdo": "Marinduque",
     "lat": 13.203516833591834,
     "lng": 122.01860413178159,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -1016,7 +1126,9 @@
     "sdo": "Marinduque",
     "lat": 12.925680801820535,
     "lng": 123.67485475168596,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -1024,7 +1136,9 @@
     "sdo": "Marinduque",
     "lat": 13.491671052476384,
     "lng": 122.03127764589115,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1032,7 +1146,9 @@
     "sdo": "Marinduque",
     "lat": 13.44234495987284,
     "lng": 121.9408659377246,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1040,7 +1156,9 @@
     "sdo": "Marinduque",
     "lat": 13.339338135305274,
     "lng": 122.00761608375639,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1048,15 +1166,20 @@
     "sdo": "Marinduque",
     "lat": 13.457461866508881,
     "lng": 121.83239465492113,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Puyog Elementary School",
     "sdo": "Marinduque",
     "lat": 13.435938355642396,
     "lng": 121.8983455549211,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1064,7 +1187,9 @@
     "sdo": "Marinduque",
     "lat": 13.44263408745426,
     "lng": 121.82658217921842,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1072,7 +1197,9 @@
     "sdo": "Marinduque",
     "lat": 13.450701906848593,
     "lng": 121.83685623859583,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1080,7 +1207,9 @@
     "sdo": "Marinduque",
     "lat": 13.449468890569342,
     "lng": 121.83727284142945,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1088,7 +1217,9 @@
     "sdo": "Marinduque",
     "lat": 13.372994373149814,
     "lng": 121.87219523957654,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1096,7 +1227,9 @@
     "sdo": "Marinduque",
     "lat": 13.442059076137685,
     "lng": 121.98675705449206,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1104,7 +1237,9 @@
     "sdo": "Marinduque",
     "lat": 13.49020084348117,
     "lng": 122.0069168819054,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1112,7 +1247,9 @@
     "sdo": "Marinduque",
     "lat": 13.466424833623329,
     "lng": 122.01767992238048,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1120,15 +1257,20 @@
     "sdo": "Marinduque",
     "lat": 13.27555198048943,
     "lng": 121.90334309949512,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bahi Elementary School",
     "sdo": "Marinduque",
     "lat": 13.570618366883709,
     "lng": 121.86029887815894,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1136,7 +1278,9 @@
     "sdo": "Marinduque",
     "lat": 13.286156620527647,
     "lng": 121.88936283931116,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1144,23 +1288,31 @@
     "sdo": "Marinduque",
     "lat": 13.313678315876027,
     "lng": 122.06900388190378,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Gaspar Elementary School",
     "sdo": "Marinduque",
     "lat": 13.250854639783633,
     "lng": 121.8634542377233,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Cabuyo Elementary School",
     "sdo": "Marinduque",
     "lat": 13.284566939130206,
     "lng": 122.05455428349143,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1168,7 +1320,9 @@
     "sdo": "Marinduque",
     "lat": 13.336685537484831,
     "lng": 121.8423455837565,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1176,7 +1330,9 @@
     "sdo": "Marinduque",
     "lat": 13.281158886320021,
     "lng": 121.87878255114813,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1184,7 +1340,9 @@
     "sdo": "Marinduque",
     "lat": 13.340924590027166,
     "lng": 122.1131093190081,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1192,15 +1350,20 @@
     "sdo": "Marinduque",
     "lat": 13.474694791084074,
     "lng": 121.86133555306914,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bocboc Elementary School",
     "sdo": "Marinduque",
     "lat": 13.474629576498675,
     "lng": 121.86140165933688,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1208,7 +1371,9 @@
     "sdo": "Marinduque",
     "lat": 13.474653057070745,
     "lng": 121.86136773957733,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1216,7 +1381,9 @@
     "sdo": "Marinduque",
     "lat": 13.545372884353972,
     "lng": 121.8909865134918,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1224,15 +1391,20 @@
     "sdo": "Marinduque",
     "lat": 13.485237576618276,
     "lng": 121.85587064840999,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mendez Elementary School",
     "sdo": "Marinduque",
     "lat": 13.474713586878531,
     "lng": 121.8613498251312,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1240,23 +1412,31 @@
     "sdo": "Marinduque",
     "lat": 13.46660496409907,
     "lng": 122.05276057026565,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lamesa Elementary School",
     "sdo": "Marinduque",
     "lat": 13.488779724310282,
     "lng": 121.95139318446846,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tarug Elementary School",
     "sdo": "Marinduque",
     "lat": 13.496989815101843,
     "lng": 121.9297946399678,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1264,7 +1444,9 @@
     "sdo": "Marinduque",
     "lat": 13.511497513256531,
     "lng": 121.85938991301471,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1272,15 +1454,20 @@
     "sdo": "Marinduque",
     "lat": 13.585064895214499,
     "lng": 121.89652022031768,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Devilla Elementary School",
     "sdo": "Marinduque",
     "lat": 13.412906896745938,
     "lng": 122.03184260442147,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1288,15 +1475,20 @@
     "sdo": "Marinduque",
     "lat": 13.267575085799477,
     "lng": 122.04199092883695,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Morales Elementary School",
     "sdo": "Marinduque",
     "lat": 13.486509772376484,
     "lng": 122.03334042278276,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1304,7 +1496,9 @@
     "sdo": "Marinduque",
     "lat": 13.423866844257462,
     "lng": 122.05975203957682,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1312,23 +1506,31 @@
     "sdo": "Marinduque",
     "lat": 13.381300973895076,
     "lng": 122.11305158910154,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tawiran Elementary School",
     "sdo": "Marinduque",
     "lat": 13.449634286538087,
     "lng": 122.071172381905,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Aturan Elementary School",
     "sdo": "Marinduque",
     "lat": 13.49226495768912,
     "lng": 121.9916698870865,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1336,23 +1538,31 @@
     "sdo": "Marinduque",
     "lat": 13.488666398338806,
     "lng": 122.03333758241496,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Balogo Elementary School",
     "sdo": "Marinduque",
     "lat": 13.503039330661323,
     "lng": 122.045935179246,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Maranlig Elementary School",
     "sdo": "Marinduque",
     "lat": 13.36145047859584,
     "lng": 122.06351791844874,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1360,15 +1570,20 @@
     "sdo": "Marinduque",
     "lat": 13.51296731301499,
     "lng": 121.995489508198,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kasily Elementary School",
     "sdo": "Marinduque",
     "lat": 13.518886844692624,
     "lng": 122.01934786656125,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1376,8 +1591,11 @@
     "sdo": "Marinduque",
     "lat": 13.47733085492286,
     "lng": 122.02391531074113,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Abanico Elementary School",
@@ -1385,9 +1603,11 @@
     "lat": 9.763491856272243,
     "lng": 118.7346671533369,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Antonio Bautista Air Base (ABAB) Elementary School",
@@ -1395,9 +1615,11 @@
     "lat": 9.747769964298799,
     "lng": 118.75718103552254,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Don Ramon Roces Memorial Elementary School",
@@ -1405,8 +1627,11 @@
     "lat": 9.730582722040724,
     "lng": 118.74221721573461,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1416,8 +1641,11 @@
     "lat": 9.738039771285539,
     "lng": 118.73673295782973,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1427,8 +1655,11 @@
     "lat": 9.795175674661555,
     "lng": 118.74957378461912,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1438,8 +1669,10 @@
     "lat": 9.760560037415516,
     "lng": 118.74745229319312,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1449,9 +1682,11 @@
     "lat": 9.747234082463802,
     "lng": 118.7380439221415,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Mangingisda Elementary School",
@@ -1459,9 +1694,11 @@
     "lat": 9.684878748099447,
     "lng": 118.75329311797041,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Manuel Austria Memorial Elementary School",
@@ -1469,9 +1706,11 @@
     "lat": 9.778935872866251,
     "lng": 118.76038582449445,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Mateo Jagmis Memorial Elementary School",
@@ -1479,8 +1718,11 @@
     "lat": 9.745569756461219,
     "lng": 118.74665007969857,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1490,8 +1732,11 @@
     "lat": 9.734273585322294,
     "lng": 118.76235825086327,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1501,8 +1746,10 @@
     "lat": 9.738616935753198,
     "lng": 118.73398483552242,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1512,8 +1759,10 @@
     "lat": 9.79557993399964,
     "lng": 118.71002016389978,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1523,9 +1772,12 @@
     "lat": 9.83264299330369,
     "lng": 118.72813829756171,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Sta. Monica Elementary School",
@@ -1533,8 +1785,10 @@
     "lat": 9.795172517880362,
     "lng": 118.73456733552335,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1544,9 +1798,10 @@
     "lat": 9.820576505160286,
     "lng": 118.74396004901804,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Tiniguiban Elementary School",
@@ -1554,9 +1809,11 @@
     "lat": 9.775369500533214,
     "lng": 118.7379361618739,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Valentin Macasaet Sr. Memorial Elementary School",
@@ -1564,8 +1821,10 @@
     "lat": 9.800515288851884,
     "lng": 118.69788179276823,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -1575,9 +1834,11 @@
     "lat": 9.748768632608629,
     "lng": 118.76986113779603,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "West Central School",
@@ -1585,48 +1846,64 @@
     "lat": 9.740554380412679,
     "lng": 118.72908805086324,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Anilawan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.744406,
     "lng": 122.260453,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "APLAYA ELEMENTARY SCHOOL",
     "sdo": "Puerto Princesa City",
     "lat": 9.8263837,
     "lng": 118.7550908,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Babuyan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9869029,
     "lng": 118.9097533,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bacungan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9102759,
     "lng": 118.7027421,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bagong Bayan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.7680761,
     "lng": 118.518589,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1634,47 +1911,64 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.9982558,
     "lng": 118.785213,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Baruang Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.0295924,
     "lng": 118.8466654,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Binduyan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9907384,
     "lng": 118.7949803,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bualbualan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.8612402,
     "lng": 118.5701451,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Buenavista Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.0662512,
     "lng": 118.8130664,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Busngol Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.8459093,
     "lng": 118.7418853,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1682,24 +1976,33 @@
     "sdo": "Puerto Princesa City",
     "lat": 10.1655272,
     "lng": 118.8783658,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Concepcion Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9965818,
     "lng": 119.0000781,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Inagawan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.5471312,
     "lng": 118.6441064,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Inagawan Sub Elementary School",
@@ -1714,15 +2017,20 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.8273494,
     "lng": 118.7016793,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Iwahig Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.7454446,
     "lng": 118.6593906,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1730,23 +2038,31 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.8346132,
     "lng": 118.7387384,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kandes Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.8933397,
     "lng": 118.6604648,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kayasan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.1150781,
     "lng": 118.8839726,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1754,7 +2070,9 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.7032655,
     "lng": 118.4316207,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1762,31 +2080,42 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.9730499,
     "lng": 118.7875911,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lucbuan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9924987,
     "lng": 118.8745929,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Luzviminda Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.6688314,
     "lng": 118.7046837,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mabuhay Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.6817499,
     "lng": 118.5499511,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1794,23 +2123,31 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.9688381,
     "lng": 118.7943121,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Makandring Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.8319568,
     "lng": 118.7222475,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Makirawa Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.1000139,
     "lng": 118.8324293,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1818,15 +2155,20 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.9632765,
     "lng": 118.8300257,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Manggapin Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9691716,
     "lng": 118.7978767,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1834,39 +2176,53 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.6747928,
     "lng": 118.733147,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Maoyon Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9999784,
     "lng": 118.8952513,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Maranat Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9240438,
     "lng": 118.6781322,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Marufinas Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9723769,
     "lng": 118.791359,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Matahimik-Bucana Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.7400181,
     "lng": 118.6861158,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1874,71 +2230,97 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.7262518,
     "lng": 118.445753,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Nasuduan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.1144453,
     "lng": 118.8267406,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "NEW PANGGANGAN ELEMENTARY SCHOOL",
     "sdo": "Puerto Princesa City",
     "lat": 10.2726063,
     "lng": 118.9622871,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sabang Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.1930682,
     "lng": 118.8929231,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Salvacion Central Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9394398,
     "lng": 118.7912664,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Carlos Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.896316,
     "lng": 118.7171322,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Rafael Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9874527,
     "lng": 118.9743714,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Simpokan Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.8090752,
     "lng": 118.5510568,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sta. Cruz Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9399457,
     "lng": 118.7433467,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1946,15 +2328,20 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.9707302,
     "lng": 118.8573591,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sto. Niño Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.7316541,
     "lng": 118.490001,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -1962,39 +2349,53 @@
     "sdo": "Puerto Princesa City",
     "lat": 10.0072823,
     "lng": 118.7954386,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tagbarungis Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 10.0010964,
     "lng": 118.8490368,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tagnipa Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.978608,
     "lng": 118.7938232,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tagumpay Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.5465698,
     "lng": 118.6484988,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Talaudyong Elementary School",
     "sdo": "Puerto Princesa City",
     "lat": 9.9746524,
     "lng": 118.6674037,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2002,8 +2403,11 @@
     "sdo": "Puerto Princesa City",
     "lat": 9.9962483,
     "lng": 118.9888322,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Alcantara Central Elementary School",
@@ -2011,9 +2415,10 @@
     "lat": 12.258548526610047,
     "lng": 122.05353332010718,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Budiong Elementary School",
@@ -2021,8 +2426,10 @@
     "lat": 12.399437236931735,
     "lng": 121.97457600082703,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -2032,9 +2439,10 @@
     "lat": 12.054171468148597,
     "lng": 121.93866550356064,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Gobon Elementary School",
@@ -2042,8 +2450,9 @@
     "lat": 12.810142096490528,
     "lng": 122.06128590727621,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -2063,9 +2472,10 @@
     "lat": 12.17162285262574,
     "lng": 122.0370286525571,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Mangansag Elementary School",
@@ -2073,8 +2483,9 @@
     "lat": 12.805707550396376,
     "lng": 122.0345495474567,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -2084,9 +2495,10 @@
     "lat": 12.187124008442598,
     "lng": 121.98480396459628,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Santa Fe Central Elementary School",
@@ -2095,7 +2507,8 @@
     "lng": 121.99585963652383,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -2115,8 +2528,9 @@
     "lat": 12.136687154345475,
     "lng": 122.01785514435983,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -2126,9 +2540,10 @@
     "lat": 12.39799111931132,
     "lng": 122.07638401213617,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Azagra Elementary School",
@@ -2136,7 +2551,7 @@
     "lat": 12.27831388514765,
     "lng": 122.62900989512525,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -2146,7 +2561,7 @@
     "lat": 12.249588297627415,
     "lng": 122.05361787094716,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -2156,7 +2571,7 @@
     "lat": 12.81563458405432,
     "lng": 122.06019895475175,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -2166,7 +2581,7 @@
     "lat": 12.272792661839876,
     "lng": 122.06152720883144,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -2186,16 +2601,19 @@
     "lat": 12.368633302564179,
     "lng": 122.6882447419079,
     "implementationTypes": [
-      "Pilot - IPA Arm"
+      "Pilot - IPA Arm",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Looc Central Elementary School",
     "sdo": "Romblon",
     "lat": 12.262924,
     "lng": 121.9958712,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2203,15 +2621,20 @@
     "sdo": "Romblon",
     "lat": 12.3973117,
     "lng": 121.9841311,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Andres Central Elementary School",
     "sdo": "Romblon",
     "lat": 12.5192708,
     "lng": 122.0105217,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2219,7 +2642,9 @@
     "sdo": "Romblon",
     "lat": 12.569115,
     "lng": 122.1295954,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2227,7 +2652,9 @@
     "sdo": "Romblon",
     "lat": 12.0613868,
     "lng": 121.9583974,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2345,7 +2772,9 @@
     "sdo": "Albay",
     "lat": 13.18382114664651,
     "lng": 123.7050218512146,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2353,40 +2782,55 @@
     "sdo": "Albay",
     "lat": 13.14422304673421,
     "lng": 123.71594705491891,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sugcad Elementary School",
     "sdo": "Albay",
     "lat": 13.402391201185038,
     "lng": 123.67917166139141,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Maysua Elementary School",
     "sdo": "Albay",
     "lat": 13.348974017121483,
     "lng": 123.55465069539581,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Andres Elementary School",
     "sdo": "Albay",
     "lat": 13.260465986519637,
     "lng": 123.77775261903079,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tiwi Central School",
     "sdo": "Albay",
     "lat": 13.45335190214259,
     "lng": 123.67995790043803,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Alianza Elementary School",
@@ -2654,8 +3098,8 @@
     "lat": 6.429709623038934,
     "lng": 121.98700406485895,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -2666,8 +3110,8 @@
     "lng": 122.01806697442858,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -2677,9 +3121,11 @@
     "lat": 6.691452612625053,
     "lng": 122.00438443599225,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Cabunbata Elementary School",
@@ -2687,8 +3133,10 @@
     "lat": 6.6802882616331765,
     "lng": 121.96483061938252,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -2698,8 +3146,10 @@
     "lat": 6.69889069995228,
     "lng": 121.97543250450711,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -2719,8 +3169,8 @@
     "lat": 6.71044837227846,
     "lng": 122.00334966621115,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -2731,7 +3181,9 @@
     "lng": 121.97026453787338,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -2741,7 +3193,7 @@
     "lat": 6.701865885074527,
     "lng": 121.97020706683428,
     "implementationTypes": [
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1"
     ],
     "multipleRounds": false
   },
@@ -2750,8 +3202,11 @@
     "sdo": "Isabela City",
     "lat": 6.71098424360465,
     "lng": 121.9652630932399,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bishop Querexeta Elementary School",
@@ -2769,8 +3224,8 @@
     "lat": 6.692391362104693,
     "lng": 121.96996842253184,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -2780,8 +3235,10 @@
     "lat": 6.711225420019407,
     "lng": 121.9687783439648,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -2792,7 +3249,9 @@
     "lng": 121.97821820554876,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 1"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -2811,8 +3270,11 @@
     "sdo": "Isabela City",
     "lat": 6.316675646467213,
     "lng": 121.92912412342122,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kumalarang Elementary School",
@@ -2827,7 +3289,9 @@
     "sdo": "Isabela City",
     "lat": 6.690093360662525,
     "lng": 121.88320896486103,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2843,16 +3307,22 @@
     "sdo": "Isabela City",
     "lat": 6.716167165491574,
     "lng": 121.97278670066461,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Malamawi Central Elementary School",
     "sdo": "Isabela City",
     "lat": 6.7154127093073726,
     "lng": 121.96798460486303,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Nr Hugo Elementary School",
@@ -2867,15 +3337,20 @@
     "sdo": "Isabela City",
     "lat": 6.709979454990735,
     "lng": 121.94514568392957,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Simeon & Josefa Obsequio Elementary School",
     "sdo": "Isabela City",
     "lat": 6.707848463374915,
     "lng": 121.98193069914758,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -2883,15 +3358,20 @@
     "sdo": "Isabela City",
     "lat": 6.685284316868735,
     "lng": 121.95629733233088,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sunset Elementary School",
     "sdo": "Isabela City",
     "lat": 6.7029755689059165,
     "lng": 121.96374869142774,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 4"
+    ],
     "multipleRounds": false
   },
   {
@@ -3059,7 +3539,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.768108918228541,
     "lng": 122.92664740364063,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3067,7 +3549,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.55447677538337,
     "lng": 122.84240617772325,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3075,7 +3559,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8624469751265105,
     "lng": 122.48500641312226,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3083,7 +3569,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.781077456631582,
     "lng": 122.72560548500229,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3091,7 +3579,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.285439980940961,
     "lng": 122.82332789386807,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3099,7 +3589,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.500218304025953,
     "lng": 122.36666706701088,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3107,7 +3599,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.701274924824379,
     "lng": 122.50617859374289,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3115,15 +3609,20 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.761494225358703,
     "lng": 122.58496224065732,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Buug Pilot Central Elemementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.726956495183117,
     "lng": 123.06260297908223,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3131,7 +3630,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6171679699192625,
     "lng": 122.94971461765248,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3139,7 +3640,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.846359,
     "lng": 122.678575,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3147,7 +3650,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.67986294854856,
     "lng": 122.99283708815962,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3155,7 +3660,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.626047,
     "lng": 122.451433,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3163,7 +3670,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.652538041348781,
     "lng": 122.9479038503711,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3171,7 +3680,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.461509681101912,
     "lng": 122.98602584208885,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3179,15 +3690,20 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.677926182854399,
     "lng": 122.85487020355244,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sta. Cruz Primary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.821766237087918,
     "lng": 122.81679863902086,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3195,7 +3711,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.766820474899035,
     "lng": 122.55538198427973,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3203,8 +3721,11 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.649492965377054,
     "lng": 122.92928849137361,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Alicia Central Elementary School",
@@ -3212,9 +3733,12 @@
     "lat": 7.524197570223999,
     "lng": 122.96629893318992,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Calades Elementary School",
@@ -3222,8 +3746,11 @@
     "lat": 7.534633856779984,
     "lng": 122.94379625917566,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -3232,15 +3759,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.576372235067982,
     "lng": 122.92972508433687,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lapirawan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.529082561100174,
     "lng": 123.00761390668028,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3248,23 +3781,31 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.470630787244105,
     "lng": 122.85156926738463,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tampalan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.443937835086758,
     "lng": 122.81700859152694,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Gulayon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5169989,
     "lng": 122.8664592,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -3272,16 +3813,22 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.508967520596145,
     "lng": 122.94167123386039,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Timbang-Timbang Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.541541145249496,
     "lng": 122.9269017215807,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bliss Elementary School",
@@ -3289,9 +3836,10 @@
     "lat": 7.737127147139231,
     "lng": 123.05694244625134,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Buug Central SPED Center",
@@ -3299,80 +3847,115 @@
     "lat": 7.726826312263751,
     "lng": 123.06320070719994,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Del Monte Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.72552004817997,
     "lng": 123.00717160621541,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Manlin Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.716742146297254,
     "lng": 123.07461329086814,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Muyo Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.750323682308957,
     "lng": 123.02506398105373,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Maganay Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7313189,
     "lng": 123.0865123,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Buug Pilot Central Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.72706,
     "lng": 123.0633716,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Pling Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7335132,
     "lng": 123.066778,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Labrador Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7566947,
     "lng": 123.04261,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Villacastor Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7314358,
     "lng": 123.0865606,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Pamintayan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.686726,
     "lng": 123.081261,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3382,7 +3965,8 @@
     "lng": 122.9843725862235,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -3392,32 +3976,43 @@
     "lat": 7.811219509366668,
     "lng": 122.94902730720098,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Gaulan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.767223647205906,
     "lng": 122.98488115476022,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Guinoman Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.834256577043372,
     "lng": 122.95190761054815,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Manangon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.739354664703721,
     "lng": 122.97437080379107,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3425,15 +4020,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.717228899059322,
     "lng": 122.94940290015451,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Natan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.79034308610252,
     "lng": 122.95077286164782,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3441,48 +4042,69 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7307361,
     "lng": 122.968414,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tinongtongan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7180983,
     "lng": 122.982045,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Luop Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.732995,
     "lng": 122.9479752,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sampoli-A Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7881185,
     "lng": 122.9645785,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Pnoc Village Primary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6799586,
     "lng": 122.9928379,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sacaon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.837638207653653,
     "lng": 122.92897912852742,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Baluyan Elementary School",
@@ -3490,8 +4112,10 @@
     "lat": 7.582187649238061,
     "lng": 122.94169802349542,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -3501,24 +4125,33 @@
     "lat": 7.644040193359535,
     "lng": 122.93113358021115,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Balugo Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.648250775851364,
     "lng": 122.94335884285849,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lalat Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.677705211151354,
     "lng": 122.9098365907146,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3526,24 +4159,34 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 8.2485258,
     "lng": 123.375637,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Pulawan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6528658,
     "lng": 122.9476561,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mali Little Baguio Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6347287,
     "lng": 122.9434916,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Doña Josefa Elementary School",
@@ -3551,8 +4194,8 @@
     "lat": 7.74866744664229,
     "lng": 122.49254592254158,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -3562,9 +4205,10 @@
     "lat": 7.780341716338137,
     "lng": 122.58757842560074,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Tiayon Elementary School",
@@ -3572,16 +4216,20 @@
     "lat": 7.767045753710541,
     "lng": 122.5550458824399,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Bangkerohan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.773257515731653,
     "lng": 122.59090696470052,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3589,7 +4237,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.744293441430652,
     "lng": 122.53968448595181,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3597,7 +4247,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.786398118983157,
     "lng": 122.5802484889835,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3605,7 +4257,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.779391820083299,
     "lng": 122.5876706966156,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3613,23 +4267,33 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.773159261755844,
     "lng": 122.57179673557377,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Pangi Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7990937607802575,
     "lng": 122.61386428354332,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sanito Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.786702296969013,
     "lng": 122.59556672307825,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3637,7 +4301,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8070711868580265,
     "lng": 122.62842486463026,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3645,7 +4311,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.770958958803892,
     "lng": 122.58122960752354,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3653,8 +4321,12 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7669754,
     "lng": 122.5553371,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kabasalan Central Elementary School",
@@ -3662,9 +4334,11 @@
     "lat": 7.801518834703532,
     "lng": 122.76019072965299,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Kabasalan SPED School",
@@ -3672,9 +4346,12 @@
     "lat": 7.801301998546849,
     "lng": 122.76000520790828,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Nazareth Elementary School",
@@ -3682,32 +4359,43 @@
     "lat": 7.762118668645802,
     "lng": 122.81845075422476,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Buayan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7773956468476415,
     "lng": 122.80383733709266,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lumbayao Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.791018749708522,
     "lng": 122.76946706880484,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Miguel Montejo Primary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 11.188016783449289,
     "lng": 124.78197244478008,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3715,15 +4403,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8493717574845565,
     "lng": 122.84942713091068,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Simbol Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.809358927836975,
     "lng": 122.73272868341849,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3731,40 +4425,59 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 11.1984334,
     "lng": 124.7875888,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lacnapan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8394812,
     "lng": 122.8717998,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Diampak Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.9362732,
     "lng": 122.8077014,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Cainglet Primary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.796612,
     "lng": 122.7605411,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Goodyear Primary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8013428,
     "lng": 122.7692184,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mabuhay Central Elementary School",
@@ -3772,16 +4485,21 @@
     "lat": 7.414405709997891,
     "lng": 122.83592353787958,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Catipan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.386897303313921,
     "lng": 122.85335101040734,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3789,7 +4507,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.4224331245704676,
     "lng": 122.84320570624645,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3797,7 +4517,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.3461152357336115,
     "lng": 122.93686136582076,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3805,39 +4527,54 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.363332234486465,
     "lng": 122.9724356530664,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Ligaya Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 14.1334649,
     "lng": 123.686664,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Malinao Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.4232203,
     "lng": 122.8445684,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Caliran Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 8.099094,
     "lng": 122.6760606,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Punawan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.377584253351065,
     "lng": 122.86344354151333,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3846,9 +4583,10 @@
     "lat": 7.628897217377986,
     "lng": 123.03189674809735,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Malongon Elementary School",
@@ -3856,8 +4594,8 @@
     "lat": 7.6508599283704966,
     "lng": 122.99735822171871,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -3866,7 +4604,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.624429895994482,
     "lng": 123.04698305683851,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3874,15 +4614,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.673828199644183,
     "lng": 123.00553007509379,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Malangas Central SPED Center",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.628642707856956,
     "lng": 123.03255378598213,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3890,32 +4636,46 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6685154,
     "lng": 123.0210014,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Camanga Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6075205,
     "lng": 123.0030651,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Del Pilar Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6856254,
     "lng": 123.02564,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Basakbawang Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6716435,
     "lng": 122.9787583,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Crossing Sta. Clara Elementary School",
@@ -3923,9 +4683,11 @@
     "lat": 7.808663727876953,
     "lng": 122.68768389433278,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Naga Central Elementary School",
@@ -3933,16 +4695,21 @@
     "lat": 7.786975185018766,
     "lng": 122.69746639167799,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Aguinaldo Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.802370597069125,
     "lng": 122.69616855814634,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3950,7 +4717,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.784817664457656,
     "lng": 122.68619574961357,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3958,7 +4727,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.930531586675681,
     "lng": 122.74246296098423,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -3966,24 +4737,36 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7060123,
     "lng": 122.4673928,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sta. Clara Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.84556,
     "lng": 122.7220193,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Baga Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.850265,
     "lng": 122.7667183,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Olutanga Central Elementary School",
@@ -3991,9 +4774,12 @@
     "lat": 7.313325391411854,
     "lng": 122.84421724134152,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Villacorte Elementary School",
@@ -4001,7 +4787,7 @@
     "lat": 7.330880201250713,
     "lng": 122.84631800264701,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": false
   },
@@ -4010,7 +4796,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.329546064334467,
     "lng": 122.81426938685661,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4018,7 +4806,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.358553,
     "lng": 122.834316,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4026,48 +4816,72 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.2777637460434645,
     "lng": 122.84599085914267,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Matim Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.3215,
     "lng": 122.8592,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Villagonzalo Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.3158805,
     "lng": 122.8281673,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Fama Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.3485161,
     "lng": 122.8480717,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tambanan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8178319,
     "lng": 122.6734636,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Buhangin Mahaba Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.285652,
     "lng": 122.8232857,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Payao Central Elementary School",
@@ -4076,7 +4890,10 @@
     "lng": 122.80590290611728,
     "implementationTypes": [
       "Pilot - DepEd Arm",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -4085,7 +4902,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.613148767910771,
     "lng": 122.92297314650929,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4093,8 +4912,12 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.482976,
     "lng": 122.814725,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Guinabucan Elementary School",
@@ -4102,8 +4925,11 @@
     "lat": 7.727223768297678,
     "lng": 122.38050992420109,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
     "multipleRounds": true
   },
@@ -4112,80 +4938,110 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5546639,
     "lng": 122.842311,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Binangonan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5835402,
     "lng": 122.8498265,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Guiwan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5847111,
     "lng": 122.8499341,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Isidro Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5860797,
     "lng": 122.8500347,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kima Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6072044,
     "lng": 122.8064488,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mt. View Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6334959,
     "lng": 122.9007472,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lower Bulawan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6469819,
     "lng": 122.8337155,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Upper Sumilong Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.551771,
     "lng": 122.86637,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kulisap Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5849284,
     "lng": 122.8500257,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Dalama Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.5088568,
     "lng": 122.8147828,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Surabay Central Elementary School",
@@ -4193,24 +5049,32 @@
     "lat": 7.659935665341867,
     "lng": 122.46730644442214,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Kulambugan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 8.111925560291585,
     "lng": 123.89696829849225,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Magsaysay Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.641960254203083,
     "lng": 122.46182523889416,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4218,23 +5082,32 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.65433293877014,
     "lng": 122.46871454819217,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Tupilac Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.636558545102021,
     "lng": 122.45437597614767,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Silingan Integrated School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.714948109402673,
     "lng": 122.49205193046754,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4243,9 +5116,12 @@
     "lat": 7.738163674077259,
     "lng": 122.83495426377822,
     "implementationTypes": [
-      "Pilot - DepEd Arm"
+      "Pilot - DepEd Arm",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Siay Central Elementary School",
@@ -4253,9 +5129,12 @@
     "lat": 7.707553196899957,
     "lng": 122.86044657736014,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Villagracia Elementary School",
@@ -4263,8 +5142,8 @@
     "lat": 7.763710971069795,
     "lng": 122.88643441330109,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -4273,39 +5152,55 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.752600423948183,
     "lng": 122.83134670430026,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Malubal Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7138772,
     "lng": 122.4127813,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "New Sagay Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6701974,
     "lng": 122.4341686,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Minsulao Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.716669360380191,
     "lng": 122.88334058612749,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bagong Silang Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.71768036094852,
     "lng": 122.88338811505406,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4313,15 +5208,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.69625477491729,
     "lng": 122.86343098257893,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Gusawan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7282501396581225,
     "lng": 122.84374883111978,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4329,16 +5230,24 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.721164817489026,
     "lng": 122.88394384059471,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Upper Balagon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.805476365702668,
     "lng": 122.90431129878802,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Florida Elementary School",
@@ -4346,9 +5255,10 @@
     "lat": 7.336935838638653,
     "lng": 122.88377872253743,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Talusan Central Elementary School",
@@ -4356,16 +5266,20 @@
     "lat": 7.425516556017343,
     "lng": 122.81327940559588,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Laparay Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.397627875332875,
     "lng": 122.81832285640218,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4374,24 +5288,32 @@
     "lat": 7.8677073643243185,
     "lng": 122.55912063788413,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Labasan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.706816,
     "lng": 122.8843127,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Teras Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.480477943293649,
     "lng": 122.31060064925079,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4399,15 +5321,20 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.696804703620563,
     "lng": 122.94457034000921,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Lower Tungawan Elemementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.509870683075183,
     "lng": 122.36068027789842,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4415,7 +5342,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7191615,
     "lng": 122.8763556,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -4423,7 +5352,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.698967224452104,
     "lng": 122.88825786543204,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -4431,15 +5362,20 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.516520832222801,
     "lng": 122.79238046922946,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Gaycon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.624245772046445,
     "lng": 122.39659426619488,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4447,8 +5383,11 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7079396,
     "lng": 122.8672739,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bulawan Elementary School",
@@ -4456,8 +5395,9 @@
     "lat": 7.646817759514401,
     "lng": 122.83368360719915,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
     "multipleRounds": true
   },
@@ -4466,23 +5406,31 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7991687,
     "lng": 122.755052,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Balingasan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 14.6524407,
     "lng": 121.0012816,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "San Jose Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.666682474379174,
     "lng": 122.45234649640675,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4490,15 +5438,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.68686798010432,
     "lng": 122.41407794374399,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Mahayahay Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.717978,
     "lng": 122.8834886,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 4"
+    ],
     "multipleRounds": false
   },
   {
@@ -4506,7 +5460,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.7425218,
     "lng": 122.8778402,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 4"
+    ],
     "multipleRounds": false
   },
   {
@@ -4514,23 +5470,33 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6543422030472605,
     "lng": 122.46877389105403,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Katipunan Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.654385258244596,
     "lng": 122.46877728039823,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Ligaya Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.399870062836684,
     "lng": 122.8437027384356,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4538,15 +5504,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.668124698322732,
     "lng": 122.48111033872684,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Kipit Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8070834,
     "lng": 122.4076392,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - ROUND 3"
+    ],
     "multipleRounds": false
   },
   {
@@ -4554,39 +5526,53 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.9103999,
     "lng": 122.6142471,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "La Libertad Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.825324,
     "lng": 122.5640177,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Salip T. Hasim Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.8568984,
     "lng": 122.5397843,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Bangco Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 8.0246188,
     "lng": 122.5432356,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sta. Maria Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.493402976714295,
     "lng": 122.83835266911656,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4595,8 +5581,8 @@
     "lat": 7.841712178867153,
     "lng": 122.48143621309345,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -4605,15 +5591,21 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.846722177328861,
     "lng": 122.5808354341892,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3",
+      "SCALING - ROUND 4"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Palomoc Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.910653525778517,
     "lng": 122.59158609367705,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4621,7 +5613,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.827593832386765,
     "lng": 122.47791909234887,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4630,8 +5624,10 @@
     "lat": 7.677653574661284,
     "lng": 122.3335251973,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
     "multipleRounds": true
   },
@@ -4641,24 +5637,30 @@
     "lat": 7.500450722092999,
     "lng": 122.36650722186704,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Cayamcam Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.535232546802821,
     "lng": 122.36012321438898,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Langon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.554581172065881,
     "lng": 122.40177510272486,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4666,7 +5668,9 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.659738834292292,
     "lng": 122.3488953836778,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4674,8 +5678,11 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.500198347849185,
     "lng": 122.36666788125885,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Ponciano Pagdanganan Elementary School",
@@ -4683,9 +5690,11 @@
     "lat": 7.772477,
     "lng": 122.4396876,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Batungan Elementary School",
@@ -4693,9 +5702,11 @@
     "lat": 7.5421472,
     "lng": 122.3413746,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Upper Tungawan Elementary School",
@@ -4703,9 +5714,11 @@
     "lat": 7.5394686,
     "lng": 122.3808158,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Masao Elementary School",
@@ -4713,16 +5726,20 @@
     "lat": 7.6141523,
     "lng": 122.432687,
     "implementationTypes": [
-      "Scale-Up Round 2"
+      "SCALING - ROUND 2",
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
     ],
-    "multipleRounds": false
+    "multipleRounds": true
   },
   {
     "name": "Sisay Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.6238080643548125,
     "lng": 122.37147853600257,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "SCALING - SUMMER 2025"
+    ],
     "multipleRounds": false
   },
   {
@@ -4730,16 +5747,22 @@
     "sdo": "Zamboanga Sibugay",
     "lat": 7.485491312906303,
     "lng": 122.33995915237634,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Calon Elementary School",
     "sdo": "Zamboanga Sibugay",
     "lat": 7.559575087624293,
     "lng": 122.44028822898902,
-    "implementationTypes": [],
-    "multipleRounds": false
+    "implementationTypes": [
+      "SCALING - SUMMER 2025",
+      "SCALING - ROUND 3"
+    ],
+    "multipleRounds": true
   },
   {
     "name": "Sto. Niño Elementary School",
@@ -4747,8 +5770,8 @@
     "lat": 7.395926936928544,
     "lng": 122.92255729244069,
     "implementationTypes": [
-      "Scale-Up Round 1",
-      "Scale-Up Round 2"
+      "SCALING - ROUND 1",
+      "SCALING - ROUND 2"
     ],
     "multipleRounds": true
   },
@@ -4757,7 +5780,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.035702083016945,
     "lng": 122.84750095296356,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4765,7 +5790,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.096780382643335,
     "lng": 122.86931049157045,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4773,7 +5800,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.04159265739327,
     "lng": 122.90101873955747,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4781,7 +5810,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.060776661002643,
     "lng": 122.85048380019991,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4789,7 +5820,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.163060867093916,
     "lng": 122.8608284250552,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4797,7 +5830,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.179971251756351,
     "lng": 122.89748941789061,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4805,7 +5840,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.15758946083142,
     "lng": 122.8963888107217,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4813,7 +5850,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.101423763064481,
     "lng": 122.86981740153543,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4821,7 +5860,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.176369131848453,
     "lng": 122.91146137724601,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4829,7 +5870,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.14237425836398,
     "lng": 122.94710647024625,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   },
   {
@@ -4837,7 +5880,9 @@
     "sdo": "Himamaylan City",
     "lat": 10.148445553552135,
     "lng": 122.86243030886936,
-    "implementationTypes": [],
+    "implementationTypes": [
+      "RCT Pilot 1"
+    ],
     "multipleRounds": false
   }
 ]
